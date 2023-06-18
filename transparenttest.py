@@ -12,7 +12,7 @@ pyautogui.PAUSE = 0
 dialogs = ["i am out of mind what to do","i wanna show you somethin'",
            "epik.","y' know what, i am bored"
            ,"can i eat?","i dont know what to do"
-           ,"grrrrrrrrr","that thing on your screen..... looks creppy for me"]
+           ,"grrrrrrrrr","that thing on your screen..... looks creppy for me", "Hmmm?"]
 
 root = tk.Tk()
 
